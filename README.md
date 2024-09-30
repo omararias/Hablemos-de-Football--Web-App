@@ -1,5 +1,6 @@
 Autor: Omar Arias Rocha.
-Propuesta de página web para Hablemos de Football, canal de YouTube/creador de contenido acerca de la NFL (liga de football americano) el cual llevo siguiendo desde hace varios años 
+Propuesta de página web para Hablemos de Football, canal de YouTube/creador de contenido acerca de la NFL (liga de football americano) el cual llevo siguiendo desde hace varios años.
+
 <img width="391" alt="Captura de pantalla 2024-09-30 a la(s) 1 05 56 a m" src="https://github.com/user-attachments/assets/29cfb132-91f9-403b-b038-db0f53d20baf">
 
 Intro:
