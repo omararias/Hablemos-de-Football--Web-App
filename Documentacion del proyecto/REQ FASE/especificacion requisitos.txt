@@ -59,7 +59,3 @@ USABILIDAD:
 RENDIMIENTO:
 	•RNF5	Tiempo de respuesta: El sistema debe responder en menos de 2 segundos para cualquier solicitud del usuario.
     •RNF6	Tiempo de carga: Las páginas web deben cargarse en menos de 3 segundos bajo condiciones de tráfico normal.
-
-
-
-    
