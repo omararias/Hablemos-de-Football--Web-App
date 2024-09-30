@@ -1,4 +1,5 @@
-Autor: Omar Arias Rocha.
+Autor del proyecto: Omar Arias Rocha.
+
 Propuesta de página web para Hablemos de Football, canal de YouTube/creador de contenido acerca de la NFL (liga de football americano) el cual llevo siguiendo desde hace varios años.
 
 <img width="391" alt="Captura de pantalla 2024-09-30 a la(s) 1 05 56 a m" src="https://github.com/user-attachments/assets/29cfb132-91f9-403b-b038-db0f53d20baf">
@@ -14,3 +15,12 @@ Sin embargo, mi cariño por este deporte, el cual me ha dado aprendizajes tan im
 
 Es por esto que nace este proyecto para presentarle al creador de Hablemos de Football con la intención sea de su agrado y en el mejor de los casos, colaborar y desplegar el proyecto.
 Además, nace como proyecto personal para agregar a mi portafolio como desarrollador de software con la intención de mejorar mis habilidades para así ofrecer mejor calidad en mis desarrollos con el transcurso del tiempo.
+
+FASES DEL DESARROLLO:
+Este proyecto buscará apegarse a las fases de desarrollo de software comprendidas por: Requisitos, diseño, implementación, pruebas y despliegue (en caso de que se autorice desplegar el sitio web).
+A continuación los enlaces para la documentación de las fases de desarrollo:
+Requisitos:
+Diseño:
+Implementación (codificación):
+Pruebas:
+Despliegue:
