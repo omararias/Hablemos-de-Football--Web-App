@@ -19,6 +19,7 @@ Además, nace como proyecto personal para agregar a mi portafolio como desarroll
 FASES DEL DESARROLLO:
 Este proyecto buscará apegarse a las fases de desarrollo de software comprendidas por: Requisitos, diseño, implementación, pruebas y despliegue (en caso de que se autorice desplegar el sitio web).
 A continuación los enlaces para la documentación de las fases de desarrollo:
+
 Requisitos:
 
 Diseño:
